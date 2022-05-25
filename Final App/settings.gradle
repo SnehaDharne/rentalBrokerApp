@@ -1,0 +1,2 @@
+rootProject.name = "House Rentals App"
+include ':app'

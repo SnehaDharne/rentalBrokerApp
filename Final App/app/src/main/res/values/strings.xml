@@ -1,0 +1,92 @@
+<resources>
+    <string name="app_name">House Rentals App</string>
+    <string name="house_rent_app">House Rent App</string>
+    <string name="house_rental_app">House_Rental_App</string>
+    <string name="username">Enter Username</string>
+    <string name="password">Enter Password</string>
+    <string name="hi_user">Hi User!</string>
+    <string name="forget_password">forget password</string>
+    <string name="sign_in">Sign In</string>
+    <string name="new_user_sign_up">new User? sign Up</string>
+    <string name="welcome">Welcome</string>
+    <string name="signup_to_find_latest_houses">SignUp to find latest Houses</string>
+    <string name="already_have_account_sign_in">Already have account? Sign in</string>
+    <string name="renter_password">Renter password</string>
+    <string name="main_title">Main Title</string>
+    <string name="sub_title">Sub Title</string>
+    <string name="repeat_password">Repeat password</string>
+    <string name="sign_up">SIGN UP</string>
+    <string name="register">Register</string>
+    <string name="account_already_exist">Account Already Exist</string>
+    <string name="new_user_register_here">New User?</string>
+    <string name="desTitle">DesTitle</string>
+    <string name="subtitle">SubTitle</string>
+    <string name="name">Name</string>
+    <string name="iam_admin">iam Admin</string>
+    <string name="sign_in_to_upload_apartments">Sign in to Upload Apartments</string>
+    <string name="BuildingName">Building Name</string>
+    <string name="description">Description</string>
+    <string name="textview">textview</string>
+    <string name="contact_textview">  </string>
+    <string name="i_am_an_admin">Login as Landlord</string>
+    <string name="this_is_where_the_admin_will_upload_house_information_for_tenants_view_so_am_still_processing_it">This is where the admin will upload house information for tenants view so am still processing it</string>
+    <string name="we_are_here_for_you_everywhere_you_are">We are here for you everywhere you are!!!</string>
+    <string name="apartments">APARTMENTS</string>
+    <string name="welcome_landlord">welcome LandLord</string>
+    <string name="upload_your_house_details">Upload your House Details</string>
+    <string name="price">Price</string>
+    <string name="phone_number">Phone number</string>
+    <string name="location">Location</string>
+    <string name="choose_image">choose image</string>
+    <string name="add_details">add details</string>
+    <string name="check_house_list">Check house list</string>
+    <string name="todo">TODO</string>
+    <string name="lastest_apartments">Lastest Apartments</string>
+    <string name="latest_apartments">Latest Apartments</string>
+    <string name="_0881049728">0881049728</string>
+    <string name="contact_0888104772">Contact : 0888104772 </string>
+    <string name="DownPayment">Deposit</string>
+    <string name="Call">Call</string>
+    <string name="Email">Email</string>
+    <string-array name="house_list">
+        <item>Pearl City</item>
+        <item>Emerald</item>
+        <item>Mandavi</item>
+        <item>Regal Hills</item>
+        <item>Pragati</item>
+        <item>Veridian</item>
+        <item>Pearl City</item>
+        <item>Samridhi</item>
+        <item>Royal Embassy</item>
+    </string-array>
+    <string-array name="description_id">
+        <item>0881002001</item>
+        <item>2363728818</item>
+        <item>0972728801</item>
+        <item>3455002001</item>
+        <item>2889002001</item>
+        <item>0473782001</item>
+        <item>2737737001</item>
+        <item>9483802551</item>
+        <item>0829927721</item>
+        <item>1919287738</item>
+    </string-array>
+    <string name="title_activity_drawer">DrawerActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Hi User!</string>
+    <string name="nav_header_subtitle"></string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_Calculator">Split Expenses</string>
+    <string name="menu_aboutus">About Us</string>
+
+    <string name="About_Us">Mahek Mishra\n
+        Aniket Saxena\n
+        Sneha Dharne</string>
+    <string name="mahekinsta"><a href="https://www.instagram.com/mahek_mishra/">instagram.com/mahek_mishra/</a></string>
+    <string name="aniketinsta"><a href="https://www.instagram.com/mahek_mishra/">instagram.com/mahek_mishra/</a></string>
+    <string name="snehainsta"><a href="https://www.instagram.com/snehaa.jpeg/">instagram.com/snehaa.jpeg/</a></string>
+</resources>
